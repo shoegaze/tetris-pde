@@ -1,0 +1,10 @@
+public enum Message {
+  TOGGLE_PAUSE,
+  RESTART,
+  MOVE_LEFT,
+  MOVE_RIGHT,
+  FAST_DROP,
+  HARD_DROP,
+  ROTATE_CCW,
+  SWAP,
+}
